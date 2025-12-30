@@ -7,3 +7,17 @@ Machine Learning Approach
 Algorithm Used: Logistic Regression
 Type: Supervised Learning
 Problem Type: Binary Classification (Spam / Ham)
+
+Technologies & Libraries Used
+
+Python 
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+NLTK (for text preprocessing)
+
+Jupyter Notebook / Google Colab
